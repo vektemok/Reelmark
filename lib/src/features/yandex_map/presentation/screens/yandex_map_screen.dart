@@ -60,7 +60,7 @@ class _YandexMapScreenState extends State<YandexMapScreen> {
   Future<void> geolocationFromAddress(Point point) async {
     try {
       final geocoder = yandexGeocoder.YandexGeocoder(
-          apiKey: '3cf7b615-3859-41d2-af8c-0519849d7140');
+          apiKey: 'Please enter your geo api key ');
       await geocoder
           .getGeocode(yandexGeocoder.GeocodeRequest(
               geocode: yandexGeocoder.PointGeocode(
@@ -73,7 +73,8 @@ class _YandexMapScreenState extends State<YandexMapScreen> {
       debugPrint('${e.toString()}, ${stackTrace.toString()}');
     }
   }
-  
+
+
 
 
 
