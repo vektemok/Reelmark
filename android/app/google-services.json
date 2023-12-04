@@ -1,0 +1,118 @@
+{
+  "project_info": {
+    "project_number": "51651556180",
+    "project_id": "reelmark-258cd",
+    "storage_bucket": "reelmark-258cd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:51651556180:android:eeb4891b3f14ca1af88ec1",
+        "android_client_info": {
+          "package_name": "com.example.reelmark"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "51651556180-2bhaqk23qjf16fac21msv5b7njtejaqs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyACD3v5mtt0JcfJAUwNmbuGa8kWEPRf1pA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "51651556180-2bhaqk23qjf16fac21msv5b7njtejaqs.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "51651556180-6e4332dhbc5ok3mkhp64tatfmvqiipa9.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.unitled203.RunnerTests"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:51651556180:android:6056db8d1e677986f88ec1",
+        "android_client_info": {
+          "package_name": "com.example.unitled203"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "51651556180-2bhaqk23qjf16fac21msv5b7njtejaqs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyACD3v5mtt0JcfJAUwNmbuGa8kWEPRf1pA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "51651556180-2bhaqk23qjf16fac21msv5b7njtejaqs.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "51651556180-6e4332dhbc5ok3mkhp64tatfmvqiipa9.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.unitled203.RunnerTests"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:51651556180:android:25f6f208152ac477f88ec1",
+        "android_client_info": {
+          "package_name": "com.example.untitled14"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "51651556180-2bhaqk23qjf16fac21msv5b7njtejaqs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyACD3v5mtt0JcfJAUwNmbuGa8kWEPRf1pA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "51651556180-2bhaqk23qjf16fac21msv5b7njtejaqs.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "51651556180-6e4332dhbc5ok3mkhp64tatfmvqiipa9.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.unitled203.RunnerTests"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
